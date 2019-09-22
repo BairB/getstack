@@ -4,6 +4,9 @@
     "slug": "getstack",
     "privacy": "public",
     "sdkVersion": "35.0.0",
+    "android": {
+      "package": "com.bear.test"
+    },
     "platforms": [
       "ios",
       "android",
